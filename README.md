@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there kotlyne です。
 
 ![kotlyne's GitHub stats](https://github-readme-stats.vercel.app/api?username=kotlyne&count_private=true&show_icons=true)
 <!--
