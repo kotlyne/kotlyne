@@ -1,10 +1,13 @@
 ### Hi there, `kotlyne` です。
 
 
-
 📈 My GitHub stats </br></br>
 ![kotlyne's GitHub stats](https://github-readme-stats.vercel.app/api?username=kotlyne&count_private=true&show_icons=true)
 
+</br>
+
+📈 My acitivity graph </br></br>
+![kotlyne's github activity graph](https://activity-graph.herokuapp.com/graph?username=kotlyne&theme=nord)
 
 
 
