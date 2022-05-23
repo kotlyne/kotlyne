@@ -1,5 +1,5 @@
 ### Hi there, `kotlyne` です。
-
+[![My Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://kotlyne.top/)
 
 📈 My GitHub stats </br></br>
 ![kotlyne's GitHub stats](https://github-readme-stats.vercel.app/api?username=kotlyne&count_private=true&show_icons=true)
